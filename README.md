@@ -7,15 +7,16 @@
 ![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-![Team](https://img.shields.io/badge/Team_Project-University-orange?style=for-the-badge)
-![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Type](https://img.shields.io/badge/Type-Team_Project-orange?style=for-the-badge)
+![Deployment](https://img.shields.io/badge/Deployment-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Campus](https://img.shields.io/badge/Campus-MUJ-1E90FF?style=for-the-badge)
 
-**A real-time, interactive campus navigation platform — built by students, for students.**
+**An interactive campus navigation platform built by students, for students.**
 
 [🚀 Live Demo](https://uniway-se.vercel.app/) • [🎥 Watch Demo](https://drive.google.com/file/d/1AzWwHe1P1RrOsdv5PHjO4DqFKK8dhu50/view?usp=sharing&t=13) • [📂 Source Code](https://github.com/AasthaKapoor27/Uniway)
 
@@ -25,19 +26,19 @@
 
 ## 📌 Problem Statement
 
-The Manipal University Jaipur campus is large and dynamic — making navigation challenging, especially for new students.
+The Manipal University Jaipur campus is large and dynamic, which can make navigation difficult for new students.
 
 | Challenge | Impact |
 |-----------|--------|
-| No campus-specific navigation tool | Students waste time finding academic blocks & facilities |
-| No real-time guidance | Confusion during first weeks of semester |
-| Accessibility gaps | Differently-abled students face extra friction |
+| Large campus layout | Students spend extra time locating academic blocks and facilities |
+| Limited campus-specific guidance | New students may feel confused during their first weeks |
+| Accessibility considerations | Some routes and spaces may be harder to navigate smoothly |
 
 ---
 
 ## 💡 What is Uniway?
 
-Uniway is an **interactive campus navigation web app** that lets students explore MUJ's campus with real-time directions, digital maps, and a student-friendly interface. It goes beyond a simple map — it's a campus companion for daily academic life.
+Uniway is an **interactive campus navigation web app** designed to help students explore the MUJ campus through a simple, student-friendly interface. It aims to make campus discovery easier and more approachable for everyday student use.
 
 ---
 
@@ -45,12 +46,11 @@ Uniway is an **interactive campus navigation web app** that lets students explor
 
 | Feature | Description |
 |---------|-------------|
-| 🗺️ Interactive Maps | Detailed digital campus map with landmarks and overlays via Leaflet.js |
-| 📍 Real-time Location | Live tracking across campus buildings, hostels, and facilities |
-| 🧭 Turn-by-Turn Directions | Step-by-step guidance to any campus destination |
-| 360° Views | Official map integrations for immersive location previews |
-| 🎓 Student Corner | Curated tips, cafes, events, and amenity discovery for new students |
-| ♿ Accessibility | Navigation suggestions for smoother movement across campus |
+| 🗺️ Interactive Maps | Digital campus map experience built with Leaflet.js |
+| 🎓 Student Corner | Student-focused section for campus discovery and helpful information |
+| 🧭 Campus Exploration | Helps users browse important places across the campus |
+| 💻 Modern Frontend | Built with React, TypeScript, Vite, and Tailwind CSS |
+| 🌐 Deployed on Vercel | Accessible online through a live web deployment |
 
 ---
 
@@ -71,7 +71,7 @@ Uniway is an **interactive campus navigation web app** that lets students explor
     <td>
       <img src="https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white" />
       <img src="https://img.shields.io/badge/Lucide_React-F97316?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/React_Router_v7-CA4245?style=flat-square&logo=react-router&logoColor=white" />
+      <img src="https://img.shields.io/badge/React_Router-D0021B?style=flat-square&logo=react-router&logoColor=white" />
     </td>
   </tr>
   <tr>
