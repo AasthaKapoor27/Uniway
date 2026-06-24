@@ -1,5 +1,3 @@
-
-100%
 <div align="center">
 
 # 🧭 Uniway — MUJ Pathfinder
@@ -15,10 +13,11 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 ![Team](https://img.shields.io/badge/Team_Project-University-orange?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 **A real-time, interactive campus navigation platform — built by students, for students.**
 
-[🎥 Watch Demo](https://drive.google.com/file/d/1AzWwHe1P1RrOsdv5PHjO4DqFKK8dhu50/view?usp=sharing&t=13) • [📂 Source Code](https://github.com/AasthaKapoor27/Uniway)
+[🚀 Live Demo](https://uniway-se.vercel.app/) • [🎥 Watch Demo](https://drive.google.com/file/d/1AzWwHe1P1RrOsdv5PHjO4DqFKK8dhu50/view?usp=sharing&t=13) • [📂 Source Code](https://github.com/AasthaKapoor27/Uniway)
 
 </div>
 
@@ -57,20 +56,34 @@ Uniway is an **interactive campus navigation web app** that lets students explor
 
 ## 🛠️ Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Mapping & UI
-![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white)
-![Lucide](https://img.shields.io/badge/Lucide_React-F97316?style=flat-square&logo=lucide&logoColor=white)
-
-### Tooling & Dev
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+<table>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Mapping & UI</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white" />
+      <img src="https://img.shields.io/badge/Lucide_React-F97316?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/React_Router_v7-CA4245?style=flat-square&logo=react-router&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tooling & Dev</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -122,11 +135,11 @@ Open `http://localhost:5173` in your browser.
 ## 🔮 Roadmap
 
 - [ ] 🔐 Secure data handling with encryption
-- [ ] ☁️ Cloud-based scalability (AWS/GCP deployment)
 - [ ] 📅 Real-time class and lab availability tracking
 - [ ] 📋 Timetable upload for personalized navigation
 - [ ] 🔔 Smart alerts for upcoming classes
 - [ ] 🏠 Hostel (GHS) navigation integration
+- [ ] 📈 Improved mobile responsiveness and UX polish
 
 ---
 
